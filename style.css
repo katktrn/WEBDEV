@@ -8,7 +8,7 @@
 }
 
 body {
-  font-family: "Poppins", sans-serif;
+  font-family: "Helvetica", sans-serif;
 }
 
 html {
@@ -46,20 +46,20 @@ nav {
 }
 
 a {
-  color: black;
+  color: rgb(10, 7, 57);
   text-decoration: none;
   text-decoration-color: white;
 }
 
 a:hover {
-  color: gray;
+  color: rgb(34, 67, 186);
   text-decoration: underline;
   text-underline-offset: 1rem;
   text-decoration-color: rgb(181, 181, 181);
 }
 
 .logo {
-  font-size: 2rem;
+  font-size: 3rem;
 }
 
 .logo:hover {
@@ -218,7 +218,7 @@ section {
 .btn-container {
   display: flex;
   justify-content: center;
-  gap: 1rem;
+  gap: 2rem;
 }
 
 .btn {
@@ -376,7 +376,7 @@ article .icon {
 }
 
 .project-btn {
-  color: black;
+  color: rgb(0, 0, 0);
   border-color: rgb(163, 163, 163);
 }
 
