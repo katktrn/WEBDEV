@@ -16,7 +16,7 @@ html {
 }
 
 p {
-  color: rgb(85, 85, 85);
+  color: rgb(20, 19, 21);
 }
 body {
   background: linear-gradient(to bottom, #ccccff 0%, #ccffff 100%);
@@ -295,7 +295,7 @@ section {
   background: white;
   border-radius: 2rem;
   border: rgb(53, 53, 53) 0.1rem solid;
-  border-color: rgb(163, 163, 163);
+  border-color: rgb(52, 27, 105);
   text-align: center;
 }
 
@@ -363,7 +363,7 @@ article .icon {
 }
 
 .color-container {
-  border-color: rgb(163, 163, 163);
+  border-color: rgb(52, 27, 105);
   background: rgb(250, 250, 250);
 }
 
@@ -397,7 +397,7 @@ article .icon {
   justify-content: center;
   border-radius: 2rem;
   border: rgb(163, 163, 163) 0.1rem solid;
-  border-color: rgb(163, 163, 163);
+  border-color: rgb(52, 27, 105);
   background: (250, 250, 250);
   margin: 2rem;
   padding: 0.5rem;
