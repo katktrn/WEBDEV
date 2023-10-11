@@ -18,7 +18,9 @@ html {
 p {
   color: rgb(85, 85, 85);
 }
-
+body {
+  background: linear-gradient(to bottom, #ccccff 0%, #ccffff 100%);
+}
 /* Transition */
 
 a,
@@ -165,7 +167,7 @@ section {
 #profile {
   display: flex;
   justify-content: center;
-  gap: 5rem;
+  gap: 4rem;
   height: 80vh;
 }
 
@@ -231,7 +233,7 @@ section {
 
 .btn-color-1,
 .btn-color-2 {
-  border: rgb(53, 53, 53) 0.1rem solid;
+  border: rgb(52, 27, 105) 0.1rem solid;
 }
 
 .btn-color-1:hover,
@@ -241,7 +243,7 @@ section {
 
 .btn-color-1,
 .btn-color-2:hover {
-  background: rgb(53, 53, 53);
+  background: rgb(39, 55, 145);
   color: white;
 }
 
@@ -366,8 +368,8 @@ article .icon {
 
 .project-img {
   border-radius: 2rem;
-  width: 90%;
-  height: 90%;
+  width: 45%;
+  height: 65%;
 }
 
 .project-title {
@@ -377,7 +379,7 @@ article .icon {
 
 .project-btn {
   color: rgb(0, 0, 0);
-  border-color: rgb(163, 163, 163);
+  border-color: rgb(52, 27, 105);
 }
 
 /* Contact Section */
